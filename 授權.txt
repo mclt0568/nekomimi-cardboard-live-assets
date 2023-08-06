@@ -1,0 +1,55 @@
+貓耳厚紙板直播視覺素材組合
+Ver 1.1
+
+作者：Frankium
+作者Github：https://github.com/mclt0568
+
+本素材以 姓名標示-相同方式分享 4.0 國際 授權分享。
+
+詳細授權請查看以下網頁：
+繁體中文：https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW
+英文：https://creativecommons.org/licenses/by-sa/4.0/deed.en
+
+使用字體與授權：
+內海字體 by max32002
+專案網站：https://github.com/max32002/naikaifont/tree/master
+授權：SIL開源字型授權
+授權網頁：https://github.com/max32002/naikaifont/blob/master/SIL_Open_Font_License_1.1.txt
+
+如果你希望二創後重新公開的話，可以將你的名字以作者加入這個檔案，然後把 Frankium 標註為原作者
+然後在這個檔案內表明這是修改後的版本即可
+
+附帶音效：
+Youtube 免費音效素材庫 Punch Swoosh Series.mp3
+
+使用方法：
+Scenes 檔案夾 - 場景圖片檔
+Assets 檔案夾 - 道具圖片檔
+Animations 檔案夾 - 動態背景與轉場效果
+
+Scenes 檔案夾內有兩種分類：
+ - Compact 為已經佈置好的場景
+ - Scene 為單純場景背景檔
+
+其中又分可配合動態背景的 Key 透明檔，以及靜態背景的 Static 檔
+使用 Key 透明檔時需要配合 Animations 檔案夾內的 Background 影片檔當做背景
+
+Assets 檔案夾內有一些直播時可以隨時使用的臨時素材，或用來佈置客製化場景的圖檔
+
+Animations 檔案夾內有動畫影片檔與Adobe After Effect原始專案檔
+有需要的話可以用After Effect客製化後拿來使用
+ - Background 是動態背景，附有半透明或非透明，可自行搭配其他背景使用搭建自己的場景
+ - Transition 是轉場效果
+使用直播軟體時需要新增一個 Stinger 轉場效果
+在轉場設定中選擇轉場的webm檔後，將「場景轉換點」調整為 1000ms 或 1s
+歡迎搭配附帶的音效素材，但本人不太會用所以這部分要自己爬文調整
+
+貓耳厚紙板.fig 是 figma 設計檔案，可以用figma網頁開啟後自己客製化
+
+使用的顏色推薦：
+文字顏色：6E3F31
+文字背景：FFFFFF
+外框：441F14
+橘色內框：FFDCC3
+橘色陰影：FF8C62
+黑板與標籤背景：6E9076
