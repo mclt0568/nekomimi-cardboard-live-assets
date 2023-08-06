@@ -1,5 +1,5 @@
 貓耳厚紙板直播視覺素材組合
-Ver 1.0
+Ver 1.1
 
 作者：Frankium
 作者Github：https://github.com/mclt0568?tab=repositories
@@ -38,13 +38,13 @@ Assets 檔案夾內有一些直播時可以隨時使用的臨時素材，或用�
 
 Animations 檔案夾內有動畫影片檔與Adobe After Effect原始專案檔
 有需要的話可以用After Effect客製化後拿來使用
- - Background 是動態背景
+ - Background 是動態背景，附有半透明或非透明，可自行搭配其他背景使用搭建自己的場景
  - Transition 是轉場效果
 使用直播軟體時需要新增一個 Stinger 轉場效果
 在轉場設定中選擇轉場的webm檔後，將「場景轉換點」調整為 1000ms 或 1s
 歡迎搭配附帶的音效素材，但本人不太會用所以這部分要自己爬文調整
 
-貓咪厚紙板.fig 是 figma 設計檔案，可以用figma網頁開啟後自己客製化
+貓耳厚紙板.fig 是 figma 設計檔案，可以用figma網頁開啟後自己客製化
 
 使用的顏色推薦：
 文字顏色：6E3F31
